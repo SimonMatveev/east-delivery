@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Exo 2";
+  src: url(./fonts/Exo2-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: "PT Sans";
+  src: url(./fonts/PTSans-Bold.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "PT Sans";
+  src: url(./fonts/PTSans-Regular.ttf);
+  font-weight: 400;
+}
